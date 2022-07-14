@@ -1,0 +1,43 @@
+h1,h2,h3,h4,h5,h6, p, li, ol{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(36, 5, 173);
+}
+
+h1{
+    padding: 20px;
+    text-decoration: underline;
+}
+
+
+li{
+    margin-bottom: 10px;
+}
+
+img{
+    padding: 10px;
+
+}
+
+p{
+    font-size: 16px;
+    padding: 10px;
+    padding-top: 0px;
+    color: rgb(95, 78, 168);
+}
+.recipe-image{
+    width: 50%;
+    height: auto;
+}
+
+.list-class{
+    background-color: yellow;
+}
+
+ol li{
+
+    color: aqua;
+}
+
+ul li{
+    color: blueviolet;
+}
